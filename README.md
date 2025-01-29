@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, je suis Bakta !  
+### Développeuse Frontend | HTML, CSS, JS, React, Angular
+et un peu backend | PHP, .NET, PYTHON 
 
-<!--
-**bakta-dev/bakta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Objectif long terme :** Devenir **DevOps** et maîtriser l’automatisation, le CI/CD et le cloud.  
 
-Here are some ideas to get you started:
+🚀 Passionnée par le développement web et toujours en quête d’apprentissage.  
+💡 J’aime concevoir des interfaces modernes, performantes et intuitives.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Technologies & Outils  
+🔹 **Frontend :** HTML | CSS | JavaScript | React | Angular  
+🔹 **Autres :** TypeScript | TailwindCSS | Bootstrap | Firebase  
+🔹 **Outils :** Git | GitHub | VS Code  
+
+---
+
+## 📂 Projets en avant  
+🌟 ** https://github.com/bakta-dev/ArgentBank-website ** – Intégrer une maquette en React - Gerer le state avec Redux toolkit 
+🌟 ** https://github.com/bakta-dev/724events ** – Debugger le site d'une agence évènementielle | Jest    
+
+---
+
+## 📊 Statistiques GitHub  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=bakta-dev&show_icons=true&theme=radical)  
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=bakta-dev&layout=compact&theme=radical)  
+
+---
+
+## 📫 Contact  
+📩 **Email :** mecheri.bakta@gmail.com 
+🔗 **LinkedIn :** Mecheri Bakta
+
+---
+
+ *"Le code, c'est comme l'humour. Si tu dois l'expliquer, c'est qu'il n'est pas bon."*   
